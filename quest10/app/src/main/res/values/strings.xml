@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quest10</string>
+    <string name="no_permission">앱에 권한이 없습니다 %1$s. 일부 기능이 제대로 작동하지 않습니다.</string>
+    <string name="req_permission_reason">앱은 요구합니다 %1$s 권한을. 권한 허가를 부탁합니다!!!</string>
+</resources>
