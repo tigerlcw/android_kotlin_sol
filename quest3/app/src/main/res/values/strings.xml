@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">quest3</string>
+    <string name="android_wiki">What should I write down?It\'s gonna have to be a lot of stuff. I don\'t know what to write down.Let\'s work hard on Android. Contents contents contents contents contents contents contents anything talk party</string>
+    <string name="input_your_name">Input your name.</string>
+    <string name="dog">dog</string>
+    <string name="cat">cat</string>
+    <string name="button">Button</string>
+</resources>

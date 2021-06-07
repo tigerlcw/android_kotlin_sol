@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">quest3</string>
+    <string name="android_wiki">무슨 내용을 적을까.많은 내용이 들어가야할텐데 무엇을 적어야할지 모르겠다안드로이드를 열심히 하자 내용내용내용내용내용내용아무말대잔치</string>
+    <string name="input_your_name">이름을 입력하세요.</string>
+    <string name="dog">개</string>
+    <string name="cat">고양이</string>
+    <string name="button">버튼</string>
+</resources>
